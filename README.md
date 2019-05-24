@@ -1,7 +1,7 @@
 # epe2
 Titulo:Epe2
 
-texto:aplicacion orientada a la fotografia y apreciacion de esta
+texto:aplicación orientada a la fotografía y apreciación de esta
 
 Iconos:epe2\src\assets\icon
 
